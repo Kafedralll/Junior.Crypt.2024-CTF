@@ -4,6 +4,7 @@ from lightphe import LightPHE
 import pickle
  
 # build a cryptosystem
+# vote.zip unpuck to folder vote
 with open(f'vote/cs.pickle', 'rb') as f:
     cs = pickle.load(f) 
 
