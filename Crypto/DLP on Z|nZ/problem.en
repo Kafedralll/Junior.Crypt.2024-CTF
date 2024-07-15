@@ -1,5 +1,5 @@
-The flag is hidden in a discrete logarithm: h = gx mod p.
-Logarithm - in the ring Z|nZ
+The flag is hidden in a discrete logarithm: h = g**x mod p.
+Logarithm - in the ring Z/nZ
 The ring is from a veeeeeery looooooong module ...
 
 nc ctf.mf.grsu.by 9030
