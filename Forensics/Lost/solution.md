@@ -3,10 +3,15 @@
 Файл с образом перезаливал заново в эмуль, фотка была. На других устройствах - нет.
 
 Первая часть флага была в Pictures:
-![Image alt](https://github.com/Kafedralll/Junior.Crypt.2024-CTF/blob/main/img/Lost-01.png)
+<p align="center">
+ <img width="500px" src="../../img/Lost-01.png" alt="qr"/>
+</p>
+<!--![Image alt](https://github.com/Kafedralll/Junior.Crypt.2024-CTF/blob/main/img/Lost-01.png)-->
 
 
-![Image alt](https://github.com/Kafedralll/Junior.Crypt.2024-CTF/blob/main/img/Lost-02.png)
+<p align="center">
+ <img width="500px" src="../../img/Lost-02.png" alt="qr"/>
+</p>
 
 Вторая часть в браузере(можно было посмотреть историю):
 ![Image alt](https://github.com/Kafedralll/Junior.Crypt.2024-CTF/blob/main/img/Lost-03.png)
