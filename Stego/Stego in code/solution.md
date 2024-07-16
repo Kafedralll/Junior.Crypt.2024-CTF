@@ -14,10 +14,10 @@ fi = open("StegoInCode.py", 'rb').read()
 stego = ""
 ib = 0
 while ib < len(fi)-1:
-    if fi[ib:ib+2] == b'\x0a\x0d':  # CR/LF
+    if fi[ib:ib+2] == b'\x0a\x0d':  # LF/CR
         stego += '0'
         ib += 2
-    elif fi[ib:ib+2] == b'\x0d\x0a': # LF/CR
+    elif fi[ib:ib+2] == b'\x0d\x0a': # CR/LF
         stego += '1'
         ib += 2
     else:
