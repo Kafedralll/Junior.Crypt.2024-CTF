@@ -15,5 +15,5 @@
 ![Image alt](https://github.com/Kafedralll/Junior.Crypt.2024-CTF/blob/main/img/Lost-04.png)
 
 <p align="center">
- <img width="200px" src="img/Lost-04.png" alt="qr"/>
+ <img width="200px" src="../../img/Lost-04.png" alt="qr"/>
 </p>
