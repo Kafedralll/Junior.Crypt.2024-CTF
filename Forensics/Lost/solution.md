@@ -14,11 +14,10 @@
 </p>
 
 Вторая часть в браузере(можно было посмотреть историю):
-![Image alt](https://github.com/Kafedralll/Junior.Crypt.2024-CTF/blob/main/img/Lost-03.png)
-
+<p align="center">
+ <img width="300px" src="../../img/Lost-03.png" alt="qr"/>
+</p>
 3 и 4 часть:
-![Image alt](https://github.com/Kafedralll/Junior.Crypt.2024-CTF/blob/main/img/Lost-04.png)
-
 <p align="center">
  <img width="500px" src="../../img/Lost-04.png" alt="qr"/>
 </p>
