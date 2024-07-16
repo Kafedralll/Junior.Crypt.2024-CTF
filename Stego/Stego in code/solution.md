@@ -8,6 +8,7 @@
 
 Гипотеза: Сообщение скрыто с использованием кодировки CR/LF и LF/CR.
 
+<pre>
 # Пишем скрипт для извлечения сообщения
 fi = open("StegoInCode.py", 'rb').read()
 stego = ""
@@ -28,3 +29,4 @@ print ()
 print ("".join([chr(int(stego[i:i+8],2)) for i in range(0, len(stego), 8)]))
 
 ÿÿÿgrodno{stego_vs_cryptography}ÿÿÿÿÿÿÿ?
+</pre>
