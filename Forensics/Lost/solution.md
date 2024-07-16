@@ -4,13 +4,13 @@
 
 Первая часть флага была в Pictures:
 <p align="center">
- <img width="500px" src="../../img/Lost-01.png" alt="qr"/>
+ <img width="300px" src="../../img/Lost-01.png" alt="qr"/>
 </p>
 <!--![Image alt](https://github.com/Kafedralll/Junior.Crypt.2024-CTF/blob/main/img/Lost-01.png)-->
 
 
 <p align="center">
- <img width="500px" src="../../img/Lost-02.png" alt="qr"/>
+ <img width="300px" src="../../img/Lost-02.png" alt="qr"/>
 </p>
 
 Вторая часть в браузере(можно было посмотреть историю):
