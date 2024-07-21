@@ -31,6 +31,6 @@
 Соответственно, H = 2494800 // W
 
 <p align="center">
- <img width="500px" src="../../img/EasyFlag-02.bmp" alt="qr" border="1"/>
+ <img width="500px" src="../../img/EasyFlag-02.png" alt="qr" border="1"/>
 </p>
 
