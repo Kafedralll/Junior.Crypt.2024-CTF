@@ -5,5 +5,5 @@
 **Решение.** 
 
 <p align="center">
- <img width="300px" src="bmpZZ.bmp" alt="qr"/>
+ <img width="300px" src="bmpZZ.bmp" alt="qr" border="1"/>
 </p>
