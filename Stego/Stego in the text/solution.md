@@ -4,6 +4,12 @@
  <img width="300px" src="../../img/StegoInText-01.png" alt="qr"/>
 </p>
 
+Или смотрим этот файл в Notepad++
+
+<p align="center">
+ <img width="300px" src="../../img/StegoInText-02.png" alt="qr"/>
+</p>
+
 Гипотеза: Сообщение скрыто с использованием кодировки 0x20 и 0x0020.
 <pre>
 # Пишем скрипт для извлечения сообщения
