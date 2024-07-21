@@ -9,9 +9,16 @@
 
 <table><tr alogn=center>
 <td align="center">
-
+<p align="center">
+ <img width="500px" src="../../img/StegoInOffice-01.png" alt="qr" border="1"/>
+</p>
 </td>
 <td align="center">
-
+<p align="center">
+ <img width="500px" src="../../img/StegoInOffice-02.png" alt="qr" border="1"/>
+</p>
 </td>
 </tr></table>
+
+**Гипотеза**. Для сокрытия информации используется бинарна кодировка
+
