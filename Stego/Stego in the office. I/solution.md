@@ -20,5 +20,29 @@
 </td>
 </tr></table>
 
-**Гипотеза**. Для сокрытия информации используется бинарна кодировка
+**Гипотеза**. Для сокрытия информации используется бинарная кодировка
+
+Заменив строки с одинарным интервалом на 0 и интервалом 1,01 на 1,
+<table><tr alogn=center>
+<td align="center">
+<p align="center">
+ <img width="500px" src="../../img/StegoInOffice-03.png" alt="qr" border="1"/>
+</p>
+</td>
+<td align="center">
+<p align="center">
+ <img width="500px" src="../../img/StegoInOffice-04.png" alt="qr" border="1"/>
+</p>
+</td>
+</tr></table>
+ можно получить битовую последовательность:
+
+ <p align="center">
+ <img width="500px" src="../../img/StegoInOffice-05.png" alt="qr" border="1"/>
+</p>
+
+Флаг: grodno{Do_you_know_who_Borges_is_?_Borges_is_amazing_!}
+
+
+
 
